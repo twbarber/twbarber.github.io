@@ -11,6 +11,7 @@ description:         'Test Description.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            1
+github:              'http://github.com/twbarber'
 
 # About/contact
 author:
