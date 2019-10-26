@@ -35,7 +35,7 @@ style: dark
 header_pages:
   - index.md
   - about.md
-  - archive.md
+  - blog.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
