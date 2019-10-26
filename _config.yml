@@ -21,6 +21,8 @@ plugins:
 style: dark
 listen_for_clients_preferred_style: true
 
+footer: '<a href="https://github.com/twbarber">github</a> | <a href="https://www.instagram.com/tylerwbarber/">instagram</a> | <a href="https://www.linkedin.com/in/twbarber/">linkedin</a>'
+
 header_pages:
   - index.md
   - blog/blog.md
