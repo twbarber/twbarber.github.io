@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Tyler Barber
-
-All opinions are my own.
+__Tyler Barber__ - *Stowe, VT*
+==============================
+*Software Engineer, Remote Work Advocate, and Outdoor Enthuisiast.* 

@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: blog
 title: /blog
 permalink: /blog/
 ---
 
-# Blog.
+# Blog
+*All opinions are my own.*
