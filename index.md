@@ -6,4 +6,4 @@ permalink: /
 
 __Tyler Barber__ - *Stowe, VT*
 ==============================
-*Software Engineer, Remote Work Advocate, and Outdoor Enthuisiast.* 
+*Software Engineer, Remote Work Advocate, and Outdoor Enthusiast.* 
