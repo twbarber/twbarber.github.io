@@ -1,5 +1,5 @@
 ---
-title: Tyler Barber
+title: /home
 layout: home
 permalink: /
 ---
