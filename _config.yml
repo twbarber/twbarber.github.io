@@ -15,9 +15,9 @@ plugins:
   - jekyll-feed
 
 style: dark
+listen_for_clients_preferred_style: true
 
 header_pages:
   - index.md
   - about/about.md
   - blog/blog.md
-  - test/test.md
