@@ -2,7 +2,6 @@
 layout: post
 title:  "Test Book Please Ignore"
 date:   2019-10-26 00:00:00 -0400
-categories: jekyll update
 ---
 
 # Test Post Please Ignore
