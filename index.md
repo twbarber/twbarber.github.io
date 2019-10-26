@@ -6,4 +6,4 @@ permalink: /
 
 # Tyler Barber
 
-Personal Website.
+All opinions are my own.
