@@ -13,7 +13,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-theme: ../jekyll-theme-console
+remote_theme: twbarber/jekyll-theme-console
 
 plugins:
   - jekyll-feed
