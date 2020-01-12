@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Test Book Please Ignore"
-date:   2019-10-26 00:00:00 -0400
+title:  "The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you"
+author: Rob Fitzpatrick
+date:   2020-01-12 00:00:00 -0400
+image: /assets/_covers/TheMomTest.jpg
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Lobortis mattis aliquam faucibus purus in. Morbi tincidunt ornare massa eget egestas purus viverra. Leo urna molestie at elementum eu facilisis sed. Consectetur purus ut faucibus pulvinar elementum integer enim neque. Aenean pharetra magna ac placerat vestibulum.
 ---
 
-# Test Book Please Ignore
+# Remote: Office Not Required
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Lobortis mattis aliquam faucibus purus in. Morbi tincidunt ornare massa eget egestas purus viverra. Leo urna molestie at elementum eu facilisis sed. Consectetur purus ut faucibus pulvinar elementum integer enim neque. Aenean pharetra magna ac placerat vestibulum. Tellus mauris a diam maecenas sed enim ut sem viverra. Elementum integer enim neque volutpat ac tincidunt vitae semper. Gravida dictum fusce ut placerat orci nulla pellentesque. Eu facilisis sed odio morbi. Ornare arcu odio ut sem nulla. Urna molestie at elementum eu facilisis. Odio facilisis mauris sit amet massa vitae tortor. Vitae et leo duis ut.
 
