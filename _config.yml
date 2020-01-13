@@ -28,3 +28,6 @@ header_pages:
   - blog/blog.md
   - books/books.md
   - projects/projects.md
+
+include:
+  - _covers
