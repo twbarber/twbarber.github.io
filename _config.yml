@@ -30,4 +30,4 @@ header_pages:
   - projects/projects.md
 
 include:
-  - _covers
+  - assets/covers
