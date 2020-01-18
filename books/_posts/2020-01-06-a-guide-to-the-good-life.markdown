@@ -2,7 +2,7 @@
 layout: post
 title:  "A Guide to the Good Life: The Ancient Art of Stoic Joy"
 author: "William B. Irvine"
-date:   2020-01-06 00:00:00 -0400
+date:   2020-01-06 12:00:00 -0400
 rating: 10
 image: /assets/covers/AGuideToTheGoodLife.jpg
 summary: A journey through the beginnings of stocism in Rome, the basics of the philosophy, and an argument for applying the ideas to modern times. Irvine often cites the greats in his attempt to sell the readers on the value of applying stoic principals to their lives, and this book can be thought of as scenic tour of available further reading.
