@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
+title:  "Atomic Habits"
 author: James Clear
 date:   2020-01-13 12:00:00 -0400
 rating: 10

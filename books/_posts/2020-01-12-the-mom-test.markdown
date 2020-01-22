@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you"
+title:  "The Mom Test"
 author: Rob Fitzpatrick
 date:   2020-01-12 12:00:00 -0400
 rating: 9

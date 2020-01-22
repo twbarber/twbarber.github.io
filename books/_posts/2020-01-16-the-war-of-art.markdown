@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The War of Art: Break Through the Blocks and Win Your Inner Creative Battles"
+title:  "The War of Art"
 author: Steven Pressfield
 date:   2020-01-16 12:00:00 -0400
 rating: 6
