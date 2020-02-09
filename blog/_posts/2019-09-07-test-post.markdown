@@ -1,17 +1,31 @@
 ---
 layout: post
-title:  "Test Post Please Ignore"
-date:   2019-10-26 00:00:00 -0400
+title:  "2020 Reading Challenge - January Update"
+date:   2020-02-09 00:00:00 -0400
 ---
 
-# Lorem Ipsum Please Ignorem
+# 2020 Reading Challenge - January Update
+## Summary 
+- **Books Completed**: 7 
+- **Books Completed in 2020: 7**  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Lobortis mattis aliquam faucibus purus in. Morbi tincidunt ornare massa eget egestas purus viverra. Leo urna molestie at elementum eu facilisis sed. Consectetur purus ut faucibus pulvinar elementum integer enim neque. Aenean pharetra magna ac placerat vestibulum. Tellus mauris a diam maecenas sed enim ut sem viverra. Elementum integer enim neque volutpat ac tincidunt vitae semper. Gravida dictum fusce ut placerat orci nulla pellentesque. Eu facilisis sed odio morbi. Ornare arcu odio ut sem nulla. Urna molestie at elementum eu facilisis. Odio facilisis mauris sit amet massa vitae tortor. Vitae et leo duis ut.
+A good start towards my goal of reading 52 books in 2020. I was able to finish 7 this month, on pace for 82 for the year. I’d expect January to be an outlier due to the cold weather making us spend more time indoors and the initial novelty of this reading challenge. 
+## Favorite Book
+### Atomic Habits by James Clear
+*Atomic Habits* was a surprisingly enjoyable self help book. The habit building framework described was thoughtful and easy to adapt to my current routine, and the repetitious chapter structure made the core ideas stick. In particular, the summary pages at the end of each chapter have been great to revisit when practicing some of Clear’s suggestions. I’m also glad to have read this book at the beginning of this year, and think it will be easier for some new personal habits to take hold.
+## Feedback and Iterations
+### Note Taking System
+An issue I’ve run into is how to take notes about key topics and quotes. Another is how to attach these notes to my summary and rating on [my books page](https://twbarber.com/books)
 
-Pellentesque elit ullamcorper dignissim cras tincidunt. Duis at tellus at urna condimentum mattis pellentesque id nibh. Cursus sit amet dictum sit amet justo donec enim. Morbi tincidunt ornare massa eget egestas purus viverra accumsan. Varius quam quisque id diam vel quam elementum pulvinar etiam. Vitae suscipit tellus mauris a diam maecenas sed enim. Egestas maecenas pharetra convallis posuere. Nam at lectus urna duis convallis. Posuere morbi leo urna molestie at elementum eu. In ornare quam viverra orci sagittis eu. Ultricies leo integer malesuada nunc. Ante metus dictum at tempor commodo. At tempor commodo ullamcorper a lacus vestibulum sed. Non tellus orci ac auctor augue. Ornare quam viverra orci sagittis eu volutpat.
+For eBooks, highlighting is simple enough on a Kindle, but personal summaries are much more painful using the on-screen keyboard. Luckily, the software automatically sends all of your highlights to an exportable file labeled "My Clippings".
 
-Enim blandit volutpat maecenas volutpat blandit. Congue eu consequat ac felis donec et odio pellentesque. Felis donec et odio pellentesque diam volutpat commodo sed egestas. Turpis tincidunt id aliquet risus feugiat in ante metus. Nullam non nisi est sit amet facilisis magna. Dictumst vestibulum rhoncus est pellentesque elit. Sit amet risus nullam eget. Nibh venenatis cras sed felis eget velit aliquet. Nec nam aliquam sem et tortor consequat id. Auctor eu augue ut lectus arcu. Integer quis auctor elit sed vulputate mi. Arcu vitae elementum curabitur vitae nunc. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor. Elit eget gravida cum sociis natoque penatibus. Consectetur adipiscing elit ut aliquam purus sit amet. Morbi quis commodo odio aenean sed adipiscing diam. Elementum curabitur vitae nunc sed velit. Amet dictum sit amet justo.
+Paper books offer an even more basic problem of flagging highlights in the first place. I hesitate to markup physical books at the risk of biasing the next reader’s experience in case I loan one out. I’ve experimented with sticky notes and index cards, and while they work (and double as bookmarks), there’s still the problem of digitization. The best answer I have for now is downloading a digital copy of every print book I read, searching for the quotes I’ve made note of, and copy-pasting them to a text file. 
 
-A diam sollicitudin tempor id eu nisl nunc. Mattis rhoncus urna neque viverra. Consequat ac felis donec et odio pellentesque diam volutpat. Morbi quis commodo odio aenean sed adipiscing diam. Ultricies lacus sed turpis tincidunt id aliquet risus. Sed cras ornare arcu dui vivamus arcu. Faucibus purus in massa tempor nec feugiat nisl pretium. Velit egestas dui id ornare arcu odio ut. Egestas diam in arcu cursus. Volutpat lacus laoreet non curabitur gravida arcu ac tortor dignissim. Sodales ut etiam sit amet nisl. Diam maecenas ultricies mi eget mauris pharetra et ultrices. At quis risus sed vulputate odio ut enim blandit. Lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Aliquam sem fringilla ut morbi tincidunt augue. Id interdum velit laoreet id donec ultrices. Interdum posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Id ornare arcu odio ut sem nulla pharetra diam sit.
+Then there’s the problem of presentation. Derek Sivers does [a good job](https://sivers.org/book/WarOfArt) of this in my opinion (and his reading list is the inspiration behind this one). It’s simple, and possibly lacks context for would be readers, but feels like a good arrangement for reflecting on books you’ve already read without needing to crack them open again. 
 
-Vestibulum mattis ullamcorper velit sed ullamcorper morbi. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Tincidunt arcu non sodales neque sodales ut etiam sit amet. Elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Aliquam etiam erat velit scelerisque. Sed risus pretium quam vulputate dignissim suspendisse in est. Ipsum dolor sit amet consectetur adipiscing elit pellentesque. Mattis rhoncus urna neque viverra justo nec. Nunc sed blandit libero volutpat sed cras ornare. Et leo duis ut diam quam nulla porttitor massa id. Amet justo donec enim diam vulputate.
+Even with a more rigorous quotation tracking system, I’d still like to try and read each book more deeply, and increase retention. I’ve started experimenting with chapter summary bullet points (similar to those found in *Atomic Habits*) written on index cards for both print and digital books. We’ll see how this scales.
+### Read More Fiction
+There’s not much to say here beyond my entire reading list being non-fiction in January. There aren’t many notes to take for fiction books, save for maybe world building details in the case of a book series, but I’d like to get more in my reading rotation in February.  
+## Currently Reading
+*Debugging Teams* by Brian Fitzpatrick and Ben Collins Sussman 
+
