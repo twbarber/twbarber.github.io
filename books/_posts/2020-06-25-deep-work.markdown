@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Deep Work"
+author: "Cal Newport"
+date:   2020-06-25 12:00:00 -0400
+rating: 10
+pages: 296
+image: /assets/covers/DeepWork.jpg
+summary: "Cal Newport addresses the importance and value of focus in a world of meetings and Big Co. redudancy. Newport argues (and it's tough to disagree) that we're most productive when we're able to achieve a state of flow, or deep concentration. Thinking deep thoughts is hard, especially with tools like Slack and email begging to steal your attention. Strongly recommended for anyone trying to rein in the distractions in their work day."
+---
+
+# Deep Work

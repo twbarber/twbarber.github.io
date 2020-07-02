@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Shape Up"
+author: "Ryan Singer and Jason Fried"
+date:   2020-06-28 12:00:00 -0400
+rating: 9
+pages: 120
+image: /assets/covers/ShapeUp.jpg
+summary: "The folks at Basecamp do it again with a look into their ways of working. Shape Up digs into the hard details of ideation, prioritization, and execution. Shaping ideas and betting on them leads to clearer goals while maintaining a level of agency for engineers and designers. Strongly recommended for anyone looking to buck the treadmill of agile."
+---
+
+# Shape Up
