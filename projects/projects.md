@@ -9,4 +9,3 @@ permalink: /projects/
 <br>
 - [\[ big-play-bot \]](https://github.com/twbarber/big-play-bot) NFL Big Plays Slack Bot
 - [\[ txt-nav \]](https://github.com/twbarber/txt-nav) SMS Based Navigation
-- [\[ vtbc \]](https://github.com/twbarber/vtbc) Vermont Beer Availability
