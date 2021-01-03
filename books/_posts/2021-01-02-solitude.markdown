@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Solitude: In Pursuit of a Singular Life in a Crowded World"
+author: "Michael Harris"
+date:   2021-01-02 12:00:00 -0400
+rating: 6
+pages: 229
+image: /assets/covers/Solitude.jpg
+summary: "Review to Follow"
+---
+
+# Solitude
