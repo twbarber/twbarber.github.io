@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "The Grid"
+author: "Gretchen Bakke, Ph. D."
+date:   2021-02-21 12:00:00 -0400
+rating: 7
+pages: 294
+image: /assets/covers/TheGrid.jpg
+summary: "Review to Follow"
+---
+
+# Essentialism
