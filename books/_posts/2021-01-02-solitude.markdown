@@ -6,7 +6,7 @@ date:   2021-01-02 12:00:00 -0400
 rating: 5
 pages: 229
 image: /assets/covers/Solitude.jpg
-summary: "This could've been a blog post. It's more memoir than guide to escaping into solitude, or  an ode to those who've offered their approach to achieving it.  "
+summary: "This could've been a blog post. It's more memoir than guide to escaping into solitude, or  ode to those who've offered their approach to achieving it. It genuinely feels like someone was inspired by social media posts to walk to a family cabin in the woods for a week, and the result was this book."
 ---
 
 # Solitude
